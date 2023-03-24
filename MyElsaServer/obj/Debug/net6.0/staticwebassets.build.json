@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "yUe4yaZo0dFD9eMONSvSgvsPBfMshO+TyA/AKz30FEc=",
+  "Source": "MyElsaServer",
+  "BasePath": "_content/MyElsaServer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
